@@ -1,0 +1,34 @@
+Page,Slug,Static HTML File
+Home,index,index.html
+Four Pillars,four-pillars,four-pillars.html
+Risk Categories,risk-categories,risk-categories.html
+Life Direction System,life-direction-system,life-direction-system.html
+Youth Dashboard,youth-dashboard,youth-dashboard.html
+Future Ready,economic-readiness,economic-readiness.html
+LifeQuest360 Game,lifequest360-game,lifequest360-game.html
+Schools,schools,schools.html
+Parents,parents,parents.html
+Community,community,community.html
+Sponsors & Partners,sponsors-partners,sponsors-partners.html
+Mitigation Partners,mitigation-partners,mitigation-partners.html
+Pilot Program,pilot-program,pilot-program.html
+Program Brief,program-brief,program-brief.html
+Funding & Partnership Readiness,funding-readiness,funding-readiness.html
+Impact Model,impact-model,impact-model.html
+Resources,resources,resources.html
+Governance,governance,governance.html
+Privacy & Safety,privacy-safety,privacy-safety.html
+Safeguarding,safeguarding,safeguarding.html
+Data Protection,data-protection,data-protection.html
+Contact,contact,contact.html
+About,/about,about.html
+Account Dashboard,/account-dashboard/,wp-code/pages/account-dashboard-wp-section.html
+
+Parent Dashboard,/parent-dashboard/,wp-code/pages/parent-dashboard-wp-section.html
+School Dashboard,/school-dashboard/,wp-code/pages/school-dashboard-wp-section.html
+Community Dashboard,/community-dashboard/,wp-code/pages/community-dashboard-wp-section.html
+Sponsor / Partner Dashboard,/sponsor-dashboard/,wp-code/pages/sponsor-dashboard-wp-section.html
+Mitigation Partner Dashboard,/mitigation-dashboard/,wp-code/pages/mitigation-dashboard-wp-section.html
+Administrator Dashboard,/admin-dashboard/,wp-code/pages/admin-dashboard-wp-section.html
+
+Admin Dashboard,/admin-dashboard/,wp-code/pages/admin-dashboard-wp-section.html,Administrator user management console

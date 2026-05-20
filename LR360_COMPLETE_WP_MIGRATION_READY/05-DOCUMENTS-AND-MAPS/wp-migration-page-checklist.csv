@@ -1,0 +1,31 @@
+WordPress Page Title,Slug,Paste This File Into Custom HTML Block
+About,/about/,about-wp-section.html
+Account Dashboard,/account-dashboard/,account-dashboard-wp-section.html
+Admin Dashboard,/admin-dashboard/,admin-dashboard-wp-section.html
+Community Dashboard,/community-dashboard/,community-dashboard-wp-section.html
+Community,/community/,community-wp-section.html
+Contact,/contact/,contact-wp-section.html
+Data Protection,/data-protection/,data-protection-wp-section.html
+Economic Readiness,/economic-readiness/,economic-readiness-wp-section.html
+Four Pillars,/four-pillars/,four-pillars-wp-section.html
+Funding Readiness,/funding-readiness/,funding-readiness-wp-section.html
+Governance,/governance/,governance-wp-section.html
+Impact Model,/impact-model/,impact-model-wp-section.html
+Home,/,index-wp-section.html
+Life Direction System,/life-direction-system/,life-direction-system-wp-section.html
+LifeQuest360 Game,/lifequest360-game/,lifequest360-game-wp-section.html
+Mitigation Dashboard,/mitigation-dashboard/,mitigation-dashboard-wp-section.html
+Mitigation Partners,/mitigation-partners/,mitigation-partners-wp-section.html
+Parent Dashboard,/parent-dashboard/,parent-dashboard-wp-section.html
+Parents,/parents/,parents-wp-section.html
+Pilot Program,/pilot-program/,pilot-program-wp-section.html
+Privacy Safety,/privacy-safety/,privacy-safety-wp-section.html
+Program Brief,/program-brief/,program-brief-wp-section.html
+Resources,/resources/,resources-wp-section.html
+Risk Categories,/risk-categories/,risk-categories-wp-section.html
+Safeguarding,/safeguarding/,safeguarding-wp-section.html
+School Dashboard,/school-dashboard/,school-dashboard-wp-section.html
+Schools,/schools/,schools-wp-section.html
+Sponsor Dashboard,/sponsor-dashboard/,sponsor-dashboard-wp-section.html
+Sponsors Partners,/sponsors-partners/,sponsors-partners-wp-section.html
+Youth Dashboard,/youth-dashboard/,youth-dashboard-wp-section.html

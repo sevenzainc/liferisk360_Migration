@@ -1,0 +1,55 @@
+Menu,Parent,Page,Slug
+Primary,,Home,/
+Primary,,About,/about/
+Primary,,Platform,#
+Primary,Platform,Four Pillars,/four-pillars/
+Primary,Platform,Risk Categories,/risk-categories/
+Primary,Platform,Life Direction System,/life-direction-system/
+Primary,Platform,Youth Dashboard,/youth-dashboard/
+Primary,Platform,Future Ready,/economic-readiness/
+Primary,Platform,LifeQuest360 Game,/lifequest360-game/
+Primary,,Stakeholders,#
+Primary,Stakeholders,Schools,/schools/
+Primary,Stakeholders,Parents,/parents/
+Primary,Stakeholders,Community,/community/
+Primary,Stakeholders,Sponsors & Partners,/sponsors-partners/
+Primary,Stakeholders,Mitigation Partners,/mitigation-partners/
+Primary,,Program Hub,#
+Primary,Program Hub,Program Brief,/program-brief/
+Primary,Program Hub,Funding & Partnership Readiness,/funding-readiness/
+Primary,Program Hub,Impact Model,/impact-model/
+Primary,Program Hub,Resources,/resources/
+Primary,Program Hub,Governance,/governance/
+Primary,Program Hub,Privacy & Safety,/privacy-safety/
+Primary,Program Hub,Safeguarding,/safeguarding/
+Primary,Program Hub,Data Protection,/data-protection/
+Primary,,Dashboards,#
+Primary,Dashboards,Account Login,/account-dashboard/
+Primary,Dashboards,Youth Dashboard,/youth-dashboard/
+Primary,Dashboards,Parent Dashboard,/parent-dashboard/
+Primary,Dashboards,School Dashboard,/school-dashboard/
+Primary,Dashboards,Community Dashboard,/community-dashboard/
+Primary,Dashboards,Admin Dashboard,/admin-dashboard/
+Primary,,Contact,/contact/
+
+Footer,,Risk Categories,/risk-categories/
+Footer,,Youth Dashboard,/youth-dashboard/
+Footer,,Life Direction,/life-direction-system/
+Footer,,LifeQuest360 Game,/lifequest360-game/
+Footer,,Schools,/schools/
+Footer,,Parents,/parents/
+Footer,,Community,/community/
+Footer,,Sponsors,/sponsors-partners/
+Footer,,Program Brief,/program-brief/
+Footer,,Resources,/resources/
+Footer,,Privacy & Safety,/privacy-safety/
+Footer,,Safeguarding,/safeguarding/
+Footer,,Contact,/contact/
+Footer,,Admin Dashboard,/admin-dashboard/
+
+Dashboards,,Account Login,/account-dashboard/
+Dashboards,,Youth Dashboard,/youth-dashboard/
+Dashboards,,Parent Dashboard,/parent-dashboard/
+Dashboards,,School Dashboard,/school-dashboard/
+Dashboards,,Community Dashboard,/community-dashboard/
+Dashboards,,Admin Dashboard,/admin-dashboard/
